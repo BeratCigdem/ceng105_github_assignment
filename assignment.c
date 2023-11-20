@@ -7,6 +7,7 @@ int main()
 	printf("I am feeling a little bit weird");
 	printf("Why?");
 	printf("I have no idea");
+	printf("Don't worry about it");
 	
 
 	return 0;
